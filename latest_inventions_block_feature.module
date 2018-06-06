@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Latest inventions block feature feature.
+ */
+
+include_once 'latest_inventions_block_feature.features.inc';
